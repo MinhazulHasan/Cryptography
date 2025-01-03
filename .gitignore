@@ -1,0 +1,15 @@
+/Advance-Encryption-Standard/aes_env
+/Data-Encryption-Standard/des_env
+/Rivest-Shamir-Adleman/rsa_env
+
+/Advance-Encryption-Standard/dummy_file_100mb.txt
+/Advance-Encryption-Standard/dummy_file_1mb.txt
+/Advance-Encryption-Standard/dummy_file_1gb.txt
+
+/Data-Encryption-Standard/dummy_file_100mb.txt
+/Data-Encryption-Standard/dummy_file_1mb.txt
+/Data-Encryption-Standard/dummy_file_1gb.txt
+
+/Rivest-Shamir-Adleman/dummy_file_100mb.txt
+/Rivest-Shamir-Adleman/dummy_file_1mb.txt
+/Rivest-Shamir-Adleman/dummy_file_1gb.txt
